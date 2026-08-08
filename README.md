@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/portfolio-hero.png" alt="Abstract navy and blue portfolio header" width="100%" />
+  <img src="./portfolio-hero.png" alt="Abstract navy and blue portfolio header" width="100%" />
 </p>
 
 <h1 align="center">Fatima Afzal</h1>
