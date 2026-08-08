@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./portfolio-hero.png" alt="Abstract navy and blue portfolio header" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Animated Fatima Afzal developer portfolio header" width="100%" />
 </p>
 
 <h1 align="center">Fatima Afzal</h1>
@@ -33,7 +33,19 @@ I’m a developer focused on creating reliable, well-considered software. My wor
 
 ## Core toolkit
 
-`TypeScript` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Python` &nbsp; `PostgreSQL` &nbsp; `SQLite` &nbsp; `Tailwind CSS` &nbsp; `Git`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,tailwind,postgres,sqlite,git,github&theme=dark&perline=12" alt="TypeScript, JavaScript, Python, HTML, CSS, React, Next.js, Tailwind CSS, PostgreSQL, SQLite, Git, and GitHub" />
+</p>
+
+<p align="center">
+  <sub>TypeScript · JavaScript · Python · React · Next.js · PostgreSQL · SQLite · Tailwind CSS</sub>
+</p>
+
+## Contribution trail
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fatimaafzal05/fatimaafzal05/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
+</p>
 
 ## Let’s connect
 
