@@ -1,0 +1,35 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fatima Afzal developer portfolio</title>
+  <desc id="desc">Dark navy portfolio header with blue and purple gradients</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#111C35"/>
+      <stop offset="1" stop-color="#1B1742"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="215" y1="70" x2="955" y2="285" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="55"/></filter>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M 38 0 L 0 0 0 38" fill="none" stroke="#94A3B8" stroke-opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#background)"/>
+  <circle cx="1050" cy="30" r="170" fill="#2563EB" fill-opacity=".28" filter="url(#blur)"/>
+  <circle cx="830" cy="330" r="150" fill="#7C3AED" fill-opacity=".24" filter="url(#blur)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <path d="M68 275C196 199 280 306 407 230C543 149 588 121 697 177C829 246 916 144 1130 84" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-opacity=".55"/>
+  <circle cx="697" cy="177" r="5" fill="#A78BFA"/>
+  <circle cx="1130" cy="84" r="5" fill="#38BDF8"/>
+  <text x="70" y="108" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="4">HELLO, I’M</text>
+  <text x="68" y="181" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="700">Fatima Afzal</text>
+  <rect x="70" y="214" width="640" height="2" rx="1" fill="url(#accent)"/>
+  <text x="70" y="258" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22">Developer · Problem Solver · Lifelong Learner</text>
+  <text x="70" y="302" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">Building thoughtful digital experiences, one project at a time.</text>
+  <g opacity=".9">
+    <rect x="1000" y="222" width="92" height="92" rx="18" fill="#0D1117" stroke="#38BDF8" stroke-opacity=".5"/>
+    <path d="M1028 252L1046 270L1028 288M1065 252L1047 270L1065 288" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
