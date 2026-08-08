@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatima-afzal-99b221288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:afzalfatima055@gmail.com"><img src="https://img.shields.io/badge/Email-Fatima_Afzal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fatima" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=afzalfatima055%40gmail.com&su=Portfolio%20enquiry"><img src="https://img.shields.io/badge/Email-Fatima_Afzal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fatima" /></a>
 </p>
 
 ---
