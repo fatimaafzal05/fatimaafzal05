@@ -19,16 +19,38 @@
 
 I’m a developer focused on creating reliable, well-considered software. My work spans full-stack web applications, AI-powered productivity tools, and desktop systems—always with an emphasis on clear user experiences and practical outcomes.
 
-## Selected work
+## Featured projects
 
-| Project | Overview | Built with | |
-| --- | --- | --- | --- |
-| [CareLoop](https://github.com/fatimaafzal05/careloop) | A privacy-conscious family health organiser for medication routines, appointments, records, and consent-based emergency information. | Next.js · TypeScript · Supabase · Tailwind CSS | [Live site ↗](https://careloop-xi.vercel.app/) |
-| [ScamLens](https://github.com/fatimaafzal05/scamlens) | A privacy-first scam and phishing checker that translates suspicious messages, URLs, and offers into clear risk signals and safer next steps. | Next.js · TypeScript · Tailwind CSS | [Live site ↗](https://scamlens-sand.vercel.app/) |
-| [CareerTrack](https://github.com/fatimaafzal05/careertrack-job-application-tracker) | A private job-search workspace with a Kanban pipeline, reminders, analytics, and secure user accounts. | Next.js · TypeScript · PostgreSQL | [Live site ↗](https://careertrack-job-application-tracker.vercel.app/) |
-| [NeuraFlow AI](https://github.com/fatimaafzal05/neuraflow-ai) | A focused workspace for career preparation, interview practice, study support, and productivity. | React · TypeScript · Tailwind CSS | [View project ↗](https://github.com/fatimaafzal05/neuraflow-ai#readme) |
-| [MediTracX](https://github.com/fatimaafzal05/medi-trax) | A pharmacy management desktop application with inventory tracking, billing, role-based access, and dashboards. | Python · PyQt5 · SQLite | [View project ↗](https://github.com/fatimaafzal05/medi-trax#readme) |
-| [Frontend Portfolio](https://github.com/fatimaafzal05/frontend-development-internship-portfolio) | A responsive front-end project focused on clean layout, detail, and modern web foundations. | HTML · CSS · Responsive design | [View project ↗](https://github.com/fatimaafzal05/frontend-development-internship-portfolio#readme) |
+<p align="center">
+  <a href="https://github.com/fatimaafzal05/careloop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=careloop&theme=github_dark_dimmed&hide_border=true" alt="CareLoop repository" />
+  </a>
+  <a href="https://github.com/fatimaafzal05/scamlens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=scamlens&theme=github_dark_dimmed&hide_border=true" alt="ScamLens repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fatimaafzal05/careertrack-job-application-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=careertrack-job-application-tracker&theme=github_dark_dimmed&hide_border=true" alt="CareerTrack repository" />
+  </a>
+  <a href="https://github.com/fatimaafzal05/neuraflow-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=neuraflow-ai&theme=github_dark_dimmed&hide_border=true" alt="NeuraFlow AI repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/fatimaafzal05/medi-trax">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=medi-trax&theme=github_dark_dimmed&hide_border=true" alt="MediTrax repository" />
+  </a>
+  <a href="https://github.com/fatimaafzal05/frontend-development-internship-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=frontend-development-internship-portfolio&theme=github_dark_dimmed&hide_border=true" alt="Frontend Portfolio repository" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Full-stack platforms · AI-powered tools · Privacy-conscious applications</sub>
+</p>
 
 ## Core toolkit
 
