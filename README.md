@@ -21,10 +21,6 @@ I’m a developer focused on creating reliable, well-considered software. My wor
 
 ## Featured projects
 
-<p align="center">
-  <img src="./assets/projects-showcase.svg" alt="Animated showcase of Fatima Afzal's featured projects" width="100%" />
-</p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
