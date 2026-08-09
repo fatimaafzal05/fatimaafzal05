@@ -23,6 +23,7 @@ I’m a developer focused on creating reliable, well-considered software. My wor
 
 | Project | Overview | Built with | |
 | --- | --- | --- | --- |
+| [CareLoop](https://github.com/fatimaafzal05/careloop) | A privacy-conscious family health organiser for medication routines, appointments, records, and consent-based emergency information. | Next.js · TypeScript · Supabase · Tailwind CSS | [Live site ↗](https://careloop-xi.vercel.app/) |
 | [ScamLens](https://github.com/fatimaafzal05/scamlens) | A privacy-first scam and phishing checker that translates suspicious messages, URLs, and offers into clear risk signals and safer next steps. | Next.js · TypeScript · Tailwind CSS | [Live site ↗](https://scamlens-sand.vercel.app/) |
 | [CareerTrack](https://github.com/fatimaafzal05/careertrack-job-application-tracker) | A private job-search workspace with a Kanban pipeline, reminders, analytics, and secure user accounts. | Next.js · TypeScript · PostgreSQL | [Live site ↗](https://careertrack-job-application-tracker.vercel.app/) |
 | [NeuraFlow AI](https://github.com/fatimaafzal05/neuraflow-ai) | A focused workspace for career preparation, interview practice, study support, and productivity. | React · TypeScript · Tailwind CSS | [View project ↗](https://github.com/fatimaafzal05/neuraflow-ai#readme) |
