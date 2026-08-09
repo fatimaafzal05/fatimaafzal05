@@ -25,36 +25,50 @@ I’m a developer focused on creating reliable, well-considered software. My wor
   <img src="./assets/projects-showcase.svg" alt="Animated showcase of Fatima Afzal's featured projects" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/fatimaafzal05/careloop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=careloop&theme=github_dark_dimmed&hide_border=true" alt="CareLoop repository" />
-  </a>
-  <a href="https://github.com/fatimaafzal05/scamlens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=scamlens&theme=github_dark_dimmed&hide_border=true" alt="ScamLens repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fatimaafzal05/careertrack-job-application-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=careertrack-job-application-tracker&theme=github_dark_dimmed&hide_border=true" alt="CareerTrack repository" />
-  </a>
-  <a href="https://github.com/fatimaafzal05/neuraflow-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=neuraflow-ai&theme=github_dark_dimmed&hide_border=true" alt="NeuraFlow AI repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fatimaafzal05/medi-trax">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=medi-trax&theme=github_dark_dimmed&hide_border=true" alt="MediTrax repository" />
-  </a>
-  <a href="https://github.com/fatimaafzal05/frontend-development-internship-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=frontend-development-internship-portfolio&theme=github_dark_dimmed&hide_border=true" alt="Frontend Portfolio repository" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Full-stack platforms · AI-powered tools · Privacy-conscious applications</sub>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/fatimaafzal05/careloop">CareLoop</a></h3>
+      <p>A private family health organiser for medicines, appointments, records, and consent-based emergency information.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></p>
+      <a href="https://careloop-xi.vercel.app/">View live project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/fatimaafzal05/scamlens">ScamLens</a></h3>
+      <p>A privacy-first scam and phishing checker that turns suspicious messages and links into clear safety guidance.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+      <a href="https://scamlens-sand.vercel.app/">View live project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/fatimaafzal05/careertrack-job-application-tracker">CareerTrack</a></h3>
+      <p>A job-search workspace with a Kanban pipeline, reminders, analytics, and secure user accounts.</p>
+      <p><code>Next.js</code> <code>PostgreSQL</code> <code>Auth.js</code></p>
+      <a href="https://careertrack-job-application-tracker.vercel.app/">View live project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/fatimaafzal05/neuraflow-ai">NeuraFlow AI</a></h3>
+      <p>An AI-powered productivity workspace for career preparation, interview practice, and study support.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+      <a href="https://github.com/fatimaafzal05/neuraflow-ai#readme">Explore project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/fatimaafzal05/medi-trax">MediTrax</a></h3>
+      <p>A desktop pharmacy-management system with inventory tracking, billing, roles, and reporting.</p>
+      <p><code>Python</code> <code>PyQt5</code> <code>SQLite</code></p>
+      <a href="https://github.com/fatimaafzal05/medi-trax#readme">Explore project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/fatimaafzal05/frontend-development-internship-portfolio">Frontend Portfolio</a></h3>
+      <p>A responsive front-end project focused on polished layouts, careful details, and modern web foundations.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Responsive design</code></p>
+      <a href="https://github.com/fatimaafzal05/frontend-development-internship-portfolio#readme">Explore project →</a>
+    </td>
+  </tr>
+</table>
 
 ## Core toolkit
 
