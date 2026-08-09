@@ -22,6 +22,10 @@ I’m a developer focused on creating reliable, well-considered software. My wor
 ## Featured projects
 
 <p align="center">
+  <img src="./assets/projects-showcase.svg" alt="Animated showcase of Fatima Afzal's featured projects" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/fatimaafzal05/careloop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatimaafzal05&repo=careloop&theme=github_dark_dimmed&hide_border=true" alt="CareLoop repository" />
   </a>
