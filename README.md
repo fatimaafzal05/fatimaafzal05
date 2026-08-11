@@ -30,10 +30,10 @@ I’m a developer focused on creating reliable, well-considered software. My wor
       <a href="https://careloop-xi.vercel.app/">View live project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/fatimaafzal05/scamlens">ScamLens</a></h3>
-      <p>A privacy-first scam and phishing checker that turns suspicious messages and links into clear safety guidance.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
-      <a href="https://scamlens-sand.vercel.app/">View live project →</a>
+      <h3><a href="https://github.com/fatimaafzal05/PocketPlan">PocketPlan</a></h3>
+      <p>A calm personal-finance planner for tracking spending, bills, budgets, and meaningful savings goals.</p>
+      <p><code>Personal finance</code> <code>Budgeting</code> <code>Goal tracking</code></p>
+      <a href="https://github.com/fatimaafzal05/PocketPlan#readme">Explore project →</a>
     </td>
   </tr>
   <tr>
@@ -58,10 +58,10 @@ I’m a developer focused on creating reliable, well-considered software. My wor
       <a href="https://github.com/fatimaafzal05/medi-trax#readme">Explore project →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/fatimaafzal05/frontend-development-internship-portfolio">Frontend Portfolio</a></h3>
-      <p>A responsive front-end project focused on polished layouts, careful details, and modern web foundations.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>Responsive design</code></p>
-      <a href="https://github.com/fatimaafzal05/frontend-development-internship-portfolio#readme">Explore project →</a>
+      <h3><a href="https://github.com/fatimaafzal05/scamlens">ScamLens</a></h3>
+      <p>A privacy-first scam and phishing checker that turns suspicious messages and links into clear safety guidance.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+      <a href="https://scamlens-sand.vercel.app/">View live project →</a>
     </td>
   </tr>
 </table>
