@@ -32,6 +32,14 @@ I’m a developer focused on creating reliable, well-considered software. My wor
   </tr>
   <tr>
     <td valign="top">
+      <h3><a href="https://github.com/fatimaafzal05/SafeSpot">SafeSpot</a></h3>
+      <p>An anonymous community-safety awareness platform with moderated reports, privacy safeguards, practical guidance, and an interactive map.</p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>SQLite</code> <code>OpenStreetMap</code></p>
+      <a href="https://github.com/fatimaafzal05/SafeSpot#readme">Explore project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <h3><a href="https://github.com/fatimaafzal05/PocketPlan">PocketPlan</a></h3>
       <p>A calm personal-finance planner for tracking spending, bills, budgets, and meaningful savings goals.</p>
       <p><code>Personal finance</code> <code>Budgeting</code> <code>Goal tracking</code></p>
